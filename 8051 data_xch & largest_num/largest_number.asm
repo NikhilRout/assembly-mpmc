@@ -7,11 +7,11 @@ INC R0
 MOV B, @R0
 INC R0
 L1: MOV A, @R0
-	CJNE A, B, L2
-	JMP L3
+    CJNE A, B, L2
+    JMP L3
 L2: JC L3
-	MOV B, A
+    MOV B, A
 L3: INC R0
-	DJNZ R2, L1
+    DJNZ R2, L1
 L4: MOV 50H, B
 END
