@@ -14,7 +14,7 @@ ORG 0000H
 	LOOP:
 		MOV A, @R0
 		JB ACC.0, ODD
-        JNB ACC.0, EVENN
+                JNB ACC.0, EVENN
 		ODD:
 		    MOV R1, 21H
 			MOV @R1, A
