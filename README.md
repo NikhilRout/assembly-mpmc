@@ -8,7 +8,8 @@ Week 1: Arithmetic Operations (Addition, Subtraction, Multiplication, Division)\
 Week 2: Exchanging Data between an array of registers & Finding Largest Number in an array of registers\
 Week 3: Blinking an LED through 8051 port gpios\
 Week 4: Square Wave Generation (10ms) & Using a timer as a counter\
-Week 5: Transmitting "Y" "E" "S" using the UART serial communication protocol & working with external interrupts
+Week 5: Transmitting "Y" "E" "S" using the UART serial communication protocol & working with external interrupts\
+Week 6: Lcd Interfacing (displaying "VITCC")
 
 ### Random Practice
 * Largest number in an array of registers
